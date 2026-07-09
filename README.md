@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hiro%20%E3%82%B7&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Automação%20•%20Integrações%20•%20Desenvolvimento%20Web&descSize=18&descAlignY=58" width="100%" />
 
-<a href="https://github.com/HiroDev-lab?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=680&lines=Workflows+event-driven+que+orquestram+APIs;Pipelines+de+dados+e+sistemas+de+mensageria;Sites+e+aplicações+web+do+zero+ao+deploy;Transformo+processos+manuais+em+automação" alt="Typing SVG" /></a>
+**`Workflows event-driven`** · **`Pipelines de dados`** · **`Sistemas de mensageria`** · **`Web do zero ao deploy`**
 
 </div>
 
@@ -51,17 +51,6 @@ Também construo **sites e aplicações web completas** — do design à publica
 | **[n8n-workflows](https://github.com/HiroDev-lab/n8n-workflows)** | Coleção de **workflows de automação** — atendimento, CRM e integrações de marketing. | |
 | **[n8n-chatwoot suite](https://github.com/HiroDev-lab?tab=repositories&q=chatwoot)** | Conjunto de automações para **Chatwoot**: roteador de conversas, classificação por IA, auto-tagging e bot de follow-up. | |
 | **[gestor-financeiro-php](https://github.com/HiroDev-lab/gestor-financeiro-php)** | Gestor financeiro em **PHP**. | |
-
----
-
-### 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HiroDev-lab&show_icons=true&hide_border=true&theme=tokyonight&icon_color=36BCF7&title_color=36BCF7" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiroDev-lab&layout=compact&hide_border=true&theme=tokyonight&title_color=36BCF7&langs_count=8" />
-
-</div>
 
 ---
 
