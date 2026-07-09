@@ -58,8 +58,10 @@ Também construo **sites e aplicações web completas** — do design à publica
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benitogabriel00@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=benitogabriel00@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HiroDev-lab)
+
+**`benitogabriel00@gmail.com`**
 
 <sub>Aberto a freelas e projetos de automação, integrações e desenvolvimento web.</sub>
 
