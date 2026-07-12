@@ -39,6 +39,7 @@ Também construo **sites e aplicações web completas** — do design à publica
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
@@ -47,6 +48,7 @@ Também construo **sites e aplicações web completas** — do design à publica
 
 | Projeto | Descrição | |
 |---|---|---|
+| **[mm-locacoes-site](https://github.com/HiroDev-lab/mm-locacoes-site)** | Site institucional de locação de poltronas hospitalares — **HTML/CSS/JS puro** + blog **WordPress com tema próprio** que replica a LP pixel a pixel (mesmo CSS do site). Migração de conteúdo via **API REST**. **Em produção.** | [🌐 Ver ao vivo](https://mmlocacoespoltronas.com.br) |
 | **[academia-ajuste-site](https://github.com/HiroDev-lab/academia-ajuste-site)** | Site institucional de uma rede de academias, em **HTML/CSS/JS puro** — multipágina, animado e responsivo. **Em produção.** | [🌐 Ver ao vivo](https://academiaajuste.com.br) |
 | **[n8n-workflows](https://github.com/HiroDev-lab/n8n-workflows)** | Coleção de **workflows de automação** — atendimento, CRM e integrações de marketing. | |
 | **[n8n-chatwoot suite](https://github.com/HiroDev-lab?tab=repositories&q=chatwoot)** | Conjunto de automações para **Chatwoot**: roteador de conversas, classificação por IA, auto-tagging e bot de follow-up. | |
