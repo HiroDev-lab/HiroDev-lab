@@ -10,9 +10,9 @@
 
 ### 🧩 Sobre
 
-Sou desenvolvedor focado em **automação, integrações e desenvolvimento web**. Projeto **workflows orientados a eventos**, **pipelines de dados** e **sistemas de mensageria** — camadas de automação que orquestram APIs, mantêm consistência de dados e conectam ferramentas que normalmente não conversam entre si.
+Me chamo **Jean Victor** (Hiro) — **Desenvolvedor Full Stack** em Curitiba/PR, focado em **automação, integrações e desenvolvimento web**. Projeto **workflows orientados a eventos**, **pipelines de dados** e **sistemas de mensageria** — camadas de automação que orquestram APIs, mantêm consistência de dados e conectam ferramentas que normalmente não conversam entre si.
 
-Também construo **sites e aplicações web completas** — do design à publicação em produção — usando desde JavaScript puro até stacks modernas com Next.js e Supabase.
+Também construo **sites e aplicações web completas** — do design à publicação em produção — usando desde JavaScript puro até stacks modernas com Next.js e Supabase, além de back-ends em **Java/Spring** e **IA aplicada** (Claude API: prompt engineering, visão computacional e saída estruturada).
 
 > 🎯 Meu foco: **tirar processos manuais das costas das pessoas** e entregar produto que funciona no mundo real, não só no `localhost`.
 
@@ -36,11 +36,18 @@ Também construo **sites e aplicações web completas** — do design à publica
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Dados & Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**IA & LLMs**
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -60,6 +67,7 @@ Também construo **sites e aplicações web completas** — do design à publica
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-victor-cwb)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jeanvtkm9090@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HiroDev-lab)
 
