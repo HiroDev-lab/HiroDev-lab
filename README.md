@@ -55,6 +55,7 @@ Também construo **sites e aplicações web completas** — do design à publica
 
 | Projeto | Descrição | |
 |---|---|---|
+| **[regadoces-site](https://github.com/HiroDev-lab/regadoces-site)** | E-commerce completo de uma doceria em **Next.js 16 + TypeScript + Tailwind v4**: catálogo, carrinho, checkout com **Pix e cartão via API do C6 Bank** (mTLS, webhook), cupons, blog e **painel administrativo** com **Supabase**. Deploy em cPanel/Node.js. **Em produção.** | [🌐 Ver ao vivo](https://regadoces.com.br) |
 | **[mm-locacoes-site](https://github.com/HiroDev-lab/mm-locacoes-site)** | Site institucional de locação de poltronas hospitalares — **HTML/CSS/JS puro** + blog **WordPress com tema próprio** que replica a LP pixel a pixel (mesmo CSS do site). Migração de conteúdo via **API REST**. **Em produção.** | [🌐 Ver ao vivo](https://mmlocacoespoltronas.com.br) |
 | **[academia-ajuste-site](https://github.com/HiroDev-lab/academia-ajuste-site)** | Site institucional de uma rede de academias, em **HTML/CSS/JS puro** — multipágina, animado e responsivo. **Em produção.** | [🌐 Ver ao vivo](https://academiaajuste.com.br) |
 | **[n8n-workflows](https://github.com/HiroDev-lab/n8n-workflows)** | Coleção de **workflows de automação** — atendimento, CRM e integrações de marketing. | |
